@@ -1,0 +1,109 @@
+*{
+
+
+margin: 0 ;
+padding: 0;
+
+
+
+
+}
+body{
+
+
+font-family: sans-serif;
+
+}
+#nav-bar {
+    position: sticky ;
+    top: 0;
+z-index: 12;
+
+  }
+  .navbar {
+
+background-image: linear-gradient(to right ,#fbe3a7 , #F9BF2F);
+
+padding: 20 !important;
+
+  }
+
+.navbar-brand img{
+height:150px ;
+padding-left: 5px;
+
+
+
+
+}
+.nav-item {
+
+font-style: inherit;
+font-size: 25px;
+padding-left: 1cm;
+
+}
+.navbar-nav li {
+    padding:  0 10px;
+    
+    }
+    .navbar-nav li a {
+    color: #404040 !important;
+    font-weight: 500;
+    
+    }
+.fa-bars {
+color:#404040;
+font-size: 30px !important;
+margin-left: 20px;
+
+}
+
+.navbar-toggler {
+outline: none !important;
+
+
+}
+.breadbrumbs{
+padding: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.breadcrumbs__item {
+
+
+  display:inline-block;
+}
+.row {
+font-style: unset;
+font-family:  Garamond, serif;;
+color: #404040;
+
+}
+#banner{
+  background-image: linear-gradient(to right ,#fbe3a7 , #F9BF2F);
+ color: #fff;
+  padding-top : 2.5%; 
+}
+
+
+.pro{
+
+font-size: 40px;
+font-weight: 600;
+margin-top: 100;
+
+}
+#banner a{
+  color :"fff";
+  text-decoration: none;
+  
+  }
+.grafik img {
+
+height: 300;
+
+
+
+}

@@ -1,0 +1,106 @@
+*{
+
+
+    margin: 0 ;
+    padding: 0;
+    
+    
+    
+    
+    }
+    body{
+    
+    background-color: #404040;
+    font-family: sans-serif;
+    
+    }
+    .pro  {
+
+color: #404040;
+
+
+
+
+
+
+    }
+    #nav-bar {
+      padding-bottom: 0;
+        position: sticky ;
+        top: 0;
+    z-index: 12;
+      }
+      .navbar {
+    
+    background-image: linear-gradient(to right ,#fbe3a7 , #F9BF2F);
+    
+    padding: 20 !important;
+    
+      }
+    
+    .navbar-brand img{
+    height:150px ;
+    padding-left: 5px;
+    
+    
+    
+    
+    }
+    .nav-item {
+    
+    font-style: inherit;
+    font-size: 25px;
+    padding-left: 1cm;
+    
+    }
+    .navbar-nav li {
+        padding:  0 10px;
+        
+        }
+        .navbar-nav li a {
+        color: #404040 !important;
+        font-weight: 500;
+        float:right;
+        text-align: left;
+        }
+    .fa-bars {
+    color:#404040;
+    font-size: 30px !important;
+    
+    }
+    .navbar-toggler {
+    outline: none !important;
+    
+    
+    }
+
+
+    .breadbrumbs{
+      padding: 10px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+      
+      }
+      .breadcrumbs__item {
+      
+      
+        display:inline-block;
+      }
+
+.breadcrumbs__item:nth-last-of-type()::after {
+
+content: '\203a';
+margin: 0 5px;
+color: #404040;
+
+
+
+}
+.pic img{
+
+width: 200px;
+height: 300px;
+
+
+
+}
